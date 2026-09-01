@@ -1,0 +1,1 @@
+{"name": "noise heard by g2", "facts": [["hears", "g2", "noise"]], "expect": {"g1": "patrol", "g2": "investigate"}}

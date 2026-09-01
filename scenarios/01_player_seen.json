@@ -1,0 +1,1 @@
+{"name": "player seen by g1", "facts": [["sees", "g1", "player"]], "expect": {"g1": "chase", "g2": "search"}}
