@@ -26,6 +26,13 @@ Unity + C# (A) · Python + experta/pyke (B) · SWI-Prolog + pyswip (C) · Unity 
 
 Оставьте один вариант. Сценарии для тестирования — в `scenarios/*.json`, логи вывода — в `results/`.
 
+## Запуск (Python)
+
+```bash
+cd python && pip install -r requirements.txt   # или: make install
+make check                        # линтер + тесты; все команды: make help
+```
+
 ## Как сдавать
 
 1. Работайте в этом репозитории, коммитьте по шагам (`step-1`, `step-2` …) — история коммитов учитывается.
